@@ -11,6 +11,7 @@ RUN apt-get update \
         sudo \
         curl \
         wget \
+        ca-certificates \
     && rm -Rf /var/lib/apt/lists/* \
     && rm -Rf /usr/share/doc && rm -Rf /usr/share/man \
     && apt-get clean
