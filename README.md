@@ -1,4 +1,4 @@
-# Debian S (Stretch)
+# Debian 9 (Stretch)
 
 [![Build Status](https://travis-ci.org/strongbrent/docker-debian9-testuser.svg?branch=master)](https://travis-ci.org/strongbrent/docker-debian9-testuser) [![Docker Automated build](https://img.shields.io/docker/cloud/automated/strongbrent/docker-debian9-testuser.svg)](https://cloud.docker.com/repository/docker/strongbrent/docker-debian9-testuser) [![Docker Automated build](https://img.shields.io/docker/cloud/build/strongbrent/debian9-testuser.svg)](https://cloud.docker.com/repository/docker/strongbrent/docker-debian9-testuser/builds)
 
