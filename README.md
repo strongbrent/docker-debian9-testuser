@@ -1,6 +1,6 @@
 # Debian 9 (Stretch)
 
-[![Build Status](https://travis-ci.org/strongbrent/docker-debian9-testuser.svg?branch=master)](https://travis-ci.org/strongbrent/docker-debian9-testuser) [![Docker Automated build](https://img.shields.io/docker/cloud/automated/strongbrent/docker-debian9-testuser.svg)](https://cloud.docker.com/repository/docker/strongbrent/docker-debian9-testuser) [![Docker Automated build](https://img.shields.io/docker/cloud/build/strongbrent/debian9-testuser.svg)](https://cloud.docker.com/repository/docker/strongbrent/docker-debian9-testuser/builds)
+[![Build Status](https://travis-ci.org/strongbrent/docker-debian9-testuser.svg?branch=master)](https://travis-ci.org/strongbrent/docker-debian9-testuser) [![Docker Automated build](https://img.shields.io/docker/cloud/automated/strongbrent/docker-debian9-testuser.svg)](https://cloud.docker.com/repository/docker/strongbrent/docker-debian9-testuser) [![Docker Automated build](https://img.shields.io/docker/cloud/build/strongbrent/docker-debian9-testuser.svg)](https://cloud.docker.com/repository/docker/strongbrent/docker-debian9-testuser/builds)
 
 ## Background
 Stock Debian 9 (Stretch) Docker image with a default user for automation testing.
@@ -21,7 +21,7 @@ make run
 When you exit, the container is automatically removed.
 
 ## How to Clean Up
-To remove the container image, run this command:
+
 ```
 make clean
 ```
